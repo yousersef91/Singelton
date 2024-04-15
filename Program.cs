@@ -6,12 +6,22 @@ namespace TestSingelton
     {
         static void Main(string[] args)
         {
-            Class1 c = new Class1();
-            c.print("Yousef");
 
-            Class1 c2 = new Class1();
-            c2.print("Bahboh");
+
+            method1();
+            method2();
 
         }
+        public static void method1()
+        {
+            Class1 c = Class1.getInstance();
+            c.print("Yousef");
+        }
+        public static void method2()
+        {
+            Class1 c2 =  Class1.getInstance();
+            c2.print("Bahboh");
+        }
+
     }
 }
