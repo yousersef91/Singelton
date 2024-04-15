@@ -6,6 +6,7 @@ namespace TestSingelton
 {
    sealed class Class1
     {
+        //TEST
         private static int counter;
         private static Class1 instance = null;
         private static Object obj = new Object();
