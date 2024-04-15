@@ -6,7 +6,12 @@ namespace TestSingelton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Class1 c = new Class1();
+            c.print("Yousef");
+
+            Class1 c2 = new Class1();
+            c2.print("Bahboh");
+
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.exe
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.deps.json
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.runtimeconfig.json
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.runtimeconfig.dev.json
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.dll
+C:\Users\يوسف\source\repos\TestSingelton\bin\Debug\netcoreapp3.1\TestSingelton.pdb
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.csproj.AssemblyReference.cache
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.AssemblyInfoInputs.cache
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.AssemblyInfo.cs
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.csproj.CoreCompileInputs.cache
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.dll
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.pdb
+C:\Users\يوسف\source\repos\TestSingelton\obj\Debug\netcoreapp3.1\TestSingelton.genruntimeconfig.cache
