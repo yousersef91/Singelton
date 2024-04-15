@@ -31,5 +31,10 @@ namespace TestSingelton
         {
             Console.WriteLine(msg);
         }
+
+        public class son:Class1
+        {
+
+        }
     }
 }
