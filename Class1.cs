@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestSingelton
 {
-    class Class1
+   sealed class Class1
     {
         private static int counter;
         private static Class1 instance = null;
@@ -32,9 +32,6 @@ namespace TestSingelton
             Console.WriteLine(msg);
         }
 
-        public class son:Class1
-        {
-
-        }
+       
     }
 }
