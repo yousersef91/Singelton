@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace TestSingelton
 {
@@ -7,9 +8,12 @@ namespace TestSingelton
         static void Main(string[] args)
         {
 
-
-            method1();
-            method2();
+            Parallel.Invoke(
+                () => method1(),
+                () => method2()
+                );
+           
+           
 
         }
         public static void method1()
